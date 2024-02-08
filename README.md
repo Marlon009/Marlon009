@@ -5,7 +5,6 @@ Tenho 21 anos e sou apaixonado por desenvolvimento de software. Abaixo, comparti
 
 🚀 Habilidades e Linguagens
 C#
-C++
 Java
 Python
 HTML/CSS
