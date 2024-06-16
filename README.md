@@ -1,22 +1,19 @@
-👋 Olá, sou Marlon Santos!
+Olá
 
-Bem-vindo ao meu espaço no GitHub, onde você encontrará projetos e códigos relacionados aos meus conhecimentos e experiências em diversas linguagens de programação.
-Tenho 21 anos e sou apaixonado por desenvolvimento de software. Abaixo, compartilho um pouco sobre minhas habilidades e áreas de interesse:
+Bem-vindo ao meu GitHub, me chamo Marlon, e aqui vou compartilhar alguns dos meus projetos...
 
-🚀 Habilidades e Linguagens
-C#
+🚀 Habilidades e Linguagens que mais uso:
 Java
 Python
 HTML/CSS
-JavaScript (noções)
-PHP (noções)
-💾 Banco de Dados e SQL
-Possuo experiência em:
+JavaScript(noções)
+Segurança Cibernética
+Banco de Dados Relacional(SQL Oracle) e não relacional(MongoDB e Cassandra)
+Frameworks: SpringBoot e Django 
+Metodologias Ágeis: Scrum e Kanban
 
-Bancos de dados relacionais
-SQL, com ênfase em Oracle
 
 📫 Contato
 LinkedIn: Marlon Santos
 E-mail: wxmarlon@gmail.com
-🌟  Vamos juntos construir um mundo mais conectado e inovador!
+🌟  Vamos juntos tentar arrumar esse mundo quebrado, para tornar ele melhor!
