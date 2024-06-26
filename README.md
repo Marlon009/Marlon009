@@ -14,6 +14,6 @@ Metodologias Ágeis: Scrum e Kanban
 
 
  Contato
-LinkedIn: Marlon Santos
+LinkedIn: https://www.linkedin.com/in/marlon-santos-b35586265/
 E-mail: wxmarlon@gmail.com
 
