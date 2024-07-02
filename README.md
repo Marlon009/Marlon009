@@ -1,19 +1,20 @@
-Olá
+Hi,
 
-Bem-vindo ao meu GitHub, me chamo Marlon e estudo desenvolvimento de software e cibersegurança.
+Welcome to my GitHub. My name's Marlon, and I study software development and cybersecurity.
 
-Habilidades e Linguagens que mais uso:
+Skills and languages that I use the most:
+
 Java
 Python
 HTML/CSS
-JavaScript(noções)
-Segurança Cibernética
-Banco de Dados Relacional(SQL Oracle) e não relacional(MongoDB e Cassandra)
-Frameworks: SpringBoot e Django 
-Metodologias Ágeis: Scrum e Kanban
+JavaScript
+Cybersecurity
+Relational databases (SQL Oracle) and non-relational databases (MongoDB and Cassandra)
+Frameworks: Spring Boot and Django
+Agile methodologies: Scrum and Kanban
 
 
- Contato
+ Contact
 LinkedIn: https://www.linkedin.com/in/marlon-santos-b35586265/
 
 
