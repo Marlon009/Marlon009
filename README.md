@@ -14,7 +14,6 @@ Frameworks: Spring Boot and Django
 Agile methodologies: Scrum and Kanban
 
 
- Contact
-LinkedIn: https://www.linkedin.com/in/marlon-santos-b35586265/
+
 
 
