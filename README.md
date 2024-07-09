@@ -37,20 +37,14 @@
 
 ###
 
+<img align="right" height="129" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif"  />
+
+###
+
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="tryhackme logo"  />
   <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="stackoverflow logo"  />
-</div>
-
-###
-
-<img align="right" height="180" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif"  />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Marlon009" alt="Layout with last medium posts"  />
 </div>
 
 ###
