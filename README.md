@@ -52,7 +52,8 @@
 
 ###
 
-<img align="right" height="130" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif"  />
+<img align="right" height="130" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif" alt="coding gif" />
+
 
 ###
 
