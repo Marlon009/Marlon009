@@ -1,18 +1,18 @@
-<h2 align="left">Olá!!</h2>
+<h2 align="left">Hi!!</h2>
 
 ###
 
 <p align="left">
-  Bem-vindo ao meu GitHub. Meu nome é Marlon, e eu estudo desenvolvimento de software e cibersegurança.<br><br>
-  Habilidades e linguagens que mais utilizo:<br><br>
+  Welcome to my GitHub. My name is Marlon, and I study software development and cybersecurity.<br><br>
+  Skills and languages that I use the most:<br><br>
   - Java<br>
   - Python<br>
   - HTML/CSS<br>
   - JavaScript<br>
-  - Cibersegurança<br>
-  - Bancos de dados relacionais (SQL Oracle) e não-relacionais (MongoDB e Cassandra)<br>
-  - Frameworks: Spring Boot e Django<br>
-  - Metodologias Ágeis: Scrum e Kanban
+  - Cybersecurity<br>
+  - Relational databases (SQL Oracle) and non-relational databases (MongoDB and Cassandra)<br>
+  - Frameworks: Spring Boot and Django<br>
+  - Agile methodologies: Scrum and Kanban
 </p>
 
 ###
