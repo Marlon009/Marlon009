@@ -1,4 +1,8 @@
-<p align="left">Hi,<br><br>Welcome to my GitHub. My name's Marlon, and I study software development and cybersecurity.<br><br>Skills and languages that I use the most:<br><br>Java<br>Python<br>HTML/CSS<br>JavaScript<br>Cybersecurity<br>Relational databases (SQL Oracle) and non-relational databases (MongoDB and Cassandra)<br>Frameworks: Spring Boot and Django<br>Agile methodologies: Scrum and Kanban</p>
+<h2 align="left">Hi!!</h2>
+
+###
+
+<p align="left">Welcome to my GitHub. My name's Marlon, and I study software development and cybersecurity.<br><br>Skills and languages that I use the most:<br><br>Java<br>Python<br>HTML/CSS<br>JavaScript<br>Cybersecurity<br>Relational databases (SQL Oracle) and non-relational databases (MongoDB and Cassandra)<br>Frameworks: Spring Boot and Django<br>Agile methodologies: Scrum and Kanban</p>
 
 ###
 
@@ -37,20 +41,20 @@
 
 ###
 
-<img align="right" height="129" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif"  />
+<img align="right" height="130" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif"  />
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="tryhackme logo"  />
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="stackoverflow logo"  />
+  <a href="https://www.linkedin.com/in/marlon-santos-b35586265/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://tryhackme.com/p/BabaYaga09" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="tryhackme logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/23220747/marlon" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="stackoverflow logo"  />
+  </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Marlon009/Marlon009/output/snake.svg" alt="Snake animation" />
 
 ###
