@@ -7,7 +7,6 @@
   Skills and languages that I use the most:<br><br>
   - Java<br>
   - Python<br>
-  - HTML/CSS<br>
   - JavaScript<br>
   - Cybersecurity<br>
   - Relational databases (SQL Oracle) and non-relational databases (MongoDB and Cassandra)<br>
