@@ -5,10 +5,10 @@
 <p align="left">
   Welcome to my GitHub. My name is Marlon, and I study software development and cybersecurity.<br><br>
   Skills and languages that I use the most:<br><br>
-  - Java<br>
   - Python<br>
-  - JavaScript<br>
-  - Cybersecurity<br>
+  - C<br>
+  - C++<br>
+  - Java<br>
   - Relational databases (SQL Oracle) and non-relational databases (MongoDB and Cassandra)<br>
   - Frameworks: Spring Boot and Django<br>
   - Agile methodologies: Scrum and Kanban
