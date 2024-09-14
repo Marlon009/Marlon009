@@ -63,11 +63,3 @@
 </div>
 
 ###
-  </a>
-  <a href="https://tryhackme.com/p/BabaYaga09" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="tryhackme logo" />
-  </a>
-  <a href="https://stackoverflow.com/users/23220747/marlon" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="stackoverflow logo" />
-  </a>
-</div>
