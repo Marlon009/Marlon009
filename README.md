@@ -10,6 +10,8 @@
 - Cryptographic Implementations 🔒
 - Network Security & Protocol Analysis 🌐
 - Performance-Critical Systems Optimization ⚡
+- Application of Physics in Simulation & Experimental Computing 🧠
+- Exploring physical modeling, astronomical computation, and data-driven experiments in physics 🪐🧪
 
 ---
 
