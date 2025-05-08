@@ -15,7 +15,7 @@
 
 ### 🚀 Featured Projects
 
-#### [🔐 CryptoSocket Messenger](private) *(WIP - Documentation Coming Soon)*
+#### 🔐 CryptoSocket Messenger(private) *(WIP - Documentation Coming Soon)*
 » Python-based E2EE LAN communicator using Fernet  
 » Features: Packet sniffing detection, MITM resistance
 
