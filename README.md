@@ -10,17 +10,19 @@
 
 ### 📌 Featured Projects
 
-- [🔐 LAN Messenger with Fernet Encryption](PRIVATE)  
+- 🔐 **LAN Messenger with Fernet Encryption** *(Private)*  
   A secure local communication tool using Python sockets and Fernet symmetric encryption. Soon to be WAN-ready!
 
-- [📄 Smart Document Converter](https://github.com/Marlon009/DocuFusion360)  
+- [📄 **Smart Document Converter**](https://github.com/Marlon009/DocuFusion360)  
   A tool to convert and manage PDF/Word/Images into unified formats, using Tkinter, PyMuPDF, and Pillow.
 
-- [🕵️ Ethical Hacking](https://github.com/Marlon009/zip_cracker)[](https://github.com/Marlon009/FallingPort)
-- [](https://github.com/Marlon009/GhostRecon)  
-  Network scanner, ZIP password cracker, and SQLi tester. Created for educational purposes and lab simulations.
+- 🕵️ **Ethical Hacking Tools:**  
+  - [ZIP Cracker](https://github.com/Marlon009/zip_cracker)  
+  - [Port Scanner](https://github.com/Marlon009/FallingPort)  
+  - [SQLi Recon Scanner](https://github.com/Marlon009/GhostRecon)  
+  Tools for educational purposes and lab simulations — from brute-force ZIP cracking to service enumeration and SQL injection testing.
 
-- [🌐 Web Scraping & Analyzer](https://github.com/Marlon009/DataScan)  
+- [🌐 **Web Scraping & Analyzer**](https://github.com/Marlon009/DataScan)  
   Performs scraping and analyzes content to auto-generate structured reports.
 
 ---
@@ -34,7 +36,7 @@
 
 ---
 
-### 🧠 Languages & Tools
+### Languages & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
