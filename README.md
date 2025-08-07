@@ -1,5 +1,5 @@
-<h1 align="left">Marlon Santos | Desenvolvedor e Pesquisador em Segurança</h1>
-<h3 align="left">Especialista em Sistemas Críticos e Baixo Nível</h3>
+<h1 align="left">Marlon Santos | Desenvolvedor e Pentester</h1>
+<h3 align="left">Sistemas Críticos e Baixo Nível</h3>
 
 ### 👨‍💻 Perfil Profissional
 
