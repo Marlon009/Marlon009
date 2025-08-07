@@ -1,85 +1,86 @@
-<h1 align="left">👋 Hey there, I'm Marlon Santos!</h1>
-<h3 align="left">🛡️ Code Alchemist | Security Explorer | Low-Level Enthusiast</h3>
+<h1 align="left">Marlon Santos | Desenvolvedor e Pesquisador em Segurança</h1>
+<h3 align="left">Especialista em Sistemas Críticos e Baixo Nível</h3>
 
-🎯 **Mission**: Building secure systems while bridging software development with physics principles  
-🎓 **Education**: 
-- Software Development (DSM) - **Expected Graduation: 2025**
-- Physics (Licentiate) - **Ongoing**
+### 👨‍💻 Perfil Profissional
 
-💡 **Core Interests**: 
-- Cryptographic Implementations 🔒
-- Network Security & Protocol Analysis 🌐
-- Performance-Critical Systems Optimization ⚡
-- Application of Physics in Simulation & Experimental Computing 🧠
-- Exploring physical modeling, astronomical computation, and data-driven experiments in physics 🪐🧪
+Desenvolvedor focado em engenharia de sistemas seguros e de alto desempenho, combinando conhecimentos de física computacional com práticas modernas de segurança cibernética. 
+
+- **Formação**: 
+  - 🎓 Tecnólogo em Desenvolvimento de Software (Conclusão: 2025)
+  - 🎓 Licenciatura em Física (Conclusão: 2028)
+
+- **Interesses Principais**:
+  - Criptografia aplicada e protocolos seguros
+  - Otimização de sistemas de baixo nível
+  - Modelagem física e computação científica
+  - Análise de redes e segurança ofensiva
 
 ---
 
-### 🚀 Featured Projects
+### ⚙️ Projetos Destacados
 
-#### 🔐 CryptoSocket Messenger(private) *(WIP - Documentation Coming Soon)*
-» Python-based E2EE LAN communicator using Fernet  
-» Features: Packet sniffing detection, MITM resistance
+#### [🔐 CryptoSocket Messenger](https://github.com/Marlon009/CryptoSocket) (Documentação em desenvolvimento)
+> Comunicação E2EE em redes locais com detecção de interceptação  
+> Tecnologias: Python (Fernet), técnicas anti-MITM
 
 #### [📊 DataScan Web Analyzer](https://github.com/Marlon009/DataScan)
-» Automated web scraping → structured reporting  
-» Tech Stack: BeautifulSoup, Pandas, Matplotlib
+> Extração e análise automatizada de dados web  
+> Stack: BeautifulSoup, Pandas, Matplotlib
 
-#### 🛠️ Security Toolkit Suite
-[![ZIP Cracker](https://img.shields.io/badge/🔓-ZIP_Brute_Force-important)](https://github.com/Marlon009/zip_cracker) 
-[![Port Scanner](https://img.shields.io/badge/📡-FallingPort-blue)](https://github.com/Marlon009/FallingPort)  
-» Educational tools for ethical hacking labs
-
----
-
-### 🛠️ Tech Arsenal
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Advanced-00599C?logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Intermediate-007396?logo=openjdk)
-
-**Security**  
-![Wireshark](https://img.shields.io/badge/Wireshark-Proficient-1679A7?logo=wireshark)
-![Metasploit](https://img.shields.io/badge/Metasploit-Familiar-EA5C1D?logo=metasploit)
-
-**DevOps**  
-![AWS](https://img.shields.io/badge/AWS-EC2/S3-FF9900?logo=amazon-aws)
-![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?logo=docker)
+#### 🧰 Ferramentas de Segurança
+[![ZIP Cracker](https://img.shields.io/badge/🔓-ZIP_Brute_Force-critical)](https://github.com/Marlon009/zip_cracker) 
+[![Port Scanner](https://img.shields.io/badge/📡-FallingPort-informational)](https://github.com/Marlon009/FallingPort)  
+> Conjunto para laboratórios de segurança ofensiva
 
 ---
 
-### 📈 GitHub Pulse
+### 🛠️ Stack Técnico
+
+**Linguagens**  
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python)
+![C++](https://img.shields.io/badge/C++-Avançado-00599C?logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-Intermediário-007396?logo=openjdk)
+
+**Segurança**  
+![Wireshark](https://img.shields.io/badge/Wireshark-Experiente-1679A7?logo=wireshark)
+![Metasploit](https://img.shields.io/badge/Metasploit-Conhecimento-1679A7)
+
+**Infraestrutura**  
+![AWS](https://img.shields.io/badge/AWS-EC2/S3-FF9900?logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-Em_aprendizado-2496ED?logo=docker)
+
+---
+
+### 📊 Atividade no GitHub
 
 <div align="center">
   <a href="https://github.com/Marlon009?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=Marlon009&show_icons=true&theme=vision-friendly-dark&hide_border=true" height="165">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlon009&layout=compact&theme=vision-friendly-dark&hide_border=true" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=Marlon009&show_icons=true&theme=dark&hide_border=true&custom_title=Estatísticas" height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlon009&layout=compact&theme=dark&hide_border=true" height="165">
   </a>
 </div>
 
-> *"Stats reflect personal projects - Open to OSS contributions! 🚪✨"*
+> *Dados referentes a projetos pessoais - Aberto para colaborações em OSS!*
 
 ---
 
-### 🌱 Open Source Goals
+### 🌐 Contato e Colaborações
 
-🔭 **Looking to Collaborate On**:  
-- Security tooling development 🛡️
-- Cryptographic libraries implementation 🔑
-- Performance optimization projects ⚙️
+**Interesses de Colaboração**:
+- Desenvolvimento de ferramentas de segurança
+- Bibliotecas criptográficas
+- Otimização de sistemas críticos
 
-📫 **How to Reach Me**:  
-[![LinkedIn](https://img.shields.io/badge/👔-LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/marlon-santos-b35586265/)
-[![TryHackMe](https://img.shields.io/badge/🎯-TryHackMe_Profile-88CC14?logo=tryhackme)](https://tryhackme.com/p/BabaYaga09)
+**Redes Profissionais**:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-%230A66C2?logo=linkedin)](https://www.linkedin.com/in/marlon-santos-b35586265/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Perfil-%2388CC14?logo=tryhackme)](https://tryhackme.com/p/BabaYaga09)
 
 ---
 
-### 🧪 Lab Notes
 ```python
-def open_source_contributor():
-    while True:
-        explore_new_tech()
-        if interesting_project:
-            join_collaboration()
-        build_in_public()
+def contribuir_open_source():
+    while conhecimento:
+        explorar_tecnologias()
+        if projeto_interessante:
+            colaborar()
+        documentar_processos()
