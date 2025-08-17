@@ -41,6 +41,8 @@ CRYPTOGRAPHY_PROTOCOLS | LOW-LEVEL_SYSTEMS | QUANTUM_COMPUTING | OFFENSIVE_SECUR
 
 🔗 ACCESS POINTS
 
-https://linkedin.com/in/marlon-santos-b35586265/
+[![LinkedIn](https://img.shields.io/badge/%F0%9F%95%B5%EF%B8%8F-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/marlon-santos-b35586265/)
+[![TryHackMe](https://img.shields.io/badge/%F0%9F%96%A5%EF%B8%8F-TryHackMe-88CC14?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/BabaYaga09)
+
 
 
