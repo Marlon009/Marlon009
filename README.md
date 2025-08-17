@@ -60,9 +60,9 @@ Linguagens & Frameworks
 diff
 
 # PYTHON       ██████████ [EXPERT] 
-# C++          ████████▋▋ [AVANÇADO]
-# JAVA         █████▊▊▊▊ [INTERMEDIÁRIO]
-# ASSEMBLY     ███▊▊▊▊▊▊ [BÁSICO]
+# C++          ███████▋ [AVANÇADO]
+# JAVA         █████ [INTERMEDIÁRIO]
+# ASSEMBLY     ██[BÁSICO]
 
 Segurança Cibernética
 diff
@@ -79,6 +79,8 @@ diff
 - AWS (EC2/S3) | DOCKER | KUBERNETES
 - QISKIT (QUANTUM) | MATLAB | COMSOL
 
-Contato
+Contato<br>
+
 [![TryHackMe](https://img.shields.io/badge/%F0%9F%96%A5%EF%B8%8F-TryHackMe-88CC14?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/BabaYaga09)
+<br>
 [![LinkedIn](https://img.shields.io/badge/%F0%9F%95%B5%EF%B8%8F-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/marlon-santos-b35586265/)
