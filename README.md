@@ -1,86 +1,64 @@
-<h1 align="left">Marlon Santos | Desenvolvedor e Pentester</h1>
-<h3 align="left">Sistemas Críticos e Baixo Nível</h3>
-
-### 👨‍💻 Perfil Profissional
-
-Desenvolvedor focado em engenharia de sistemas seguros e de alto desempenho, combinando conhecimentos de física computacional com práticas modernas de segurança cibernética. 
-
-- **Formação**: 
-  - 🎓 Tecnólogo em Desenvolvimento de Software (Conclusão: 2025)
-  - 🎓 Licenciatura em Física (Conclusão: 2028)
-
-- **Interesses Principais**:
-  - Criptografia aplicada e protocolos seguros
-  - Otimização de sistemas de baixo nível
-  - Modelagem física e computação científica
-  - Análise de redes e segurança ofensiva
-
+<h1 align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50px"> 
+  MARLON SANTOS | CYBER SYSTEMS ENGINEER
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50px">
+</h1>
+<h3 align="center">`>> SYSTEMS SECURITY :: LOW-LEVEL OPTIMIZATION :: CRYPTOGRAPHY`</h3>
+```diff
+# [ STATUS: ONLINE ]  [ SECURITY CLEARANCE: GAMMA ]
+```
 ---
-
-### ⚙️ Projetos Destacados
-
-#### [🔐 CryptoSocket Messenger](https://github.com/Marlon009/CryptoSocket) (Documentação em desenvolvimento)
-> Comunicação E2EE em redes locais com detecção de interceptação  
-> Tecnologias: Python (Fernet), técnicas anti-MITM
-
-#### [📊 DataScan Web Analyzer](https://github.com/Marlon009/DataScan)
-> Extração e análise automatizada de dados web  
-> Stack: BeautifulSoup, Pandas, Matplotlib
-
-#### 🧰 Ferramentas de Segurança
-[![ZIP Cracker](https://img.shields.io/badge/🔓-ZIP_Brute_Force-critical)](https://github.com/Marlon009/zip_cracker) 
-[![Port Scanner](https://img.shields.io/badge/📡-FallingPort-informational)](https://github.com/Marlon009/FallingPort)  
-> Conjunto para laboratórios de segurança ofensiva
-
+### 🔮 TERMINAL DE PERFIL  
+```bash
+> whois Marlon_Santos
+🧠 Dual-Specialist: Physics Computation | Security Engineering 
+⌛ ETA: B.S. Software Eng (2025) | Physics Degree (2028)
+> access_credentials --interests
+CRYPTOGRAPHY_PROTOCOLS | LOW-LEVEL_SYSTEMS | QUANTUM_COMPUTING | OFFENSIVE_SECURITY
+```
 ---
-
-### 🛠️ Stack Técnico
-
-**Linguagens**  
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python)
-![C++](https://img.shields.io/badge/C++-Avançado-00599C?logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-Intermediário-007396?logo=openjdk)
-
-**Segurança**  
-![Wireshark](https://img.shields.io/badge/Wireshark-Experiente-1679A7?logo=wireshark)
-![Metasploit](https://img.shields.io/badge/Metasploit-Conhecimento-1679A7)
-
-**Infraestrutura**  
-![AWS](https://img.shields.io/badge/AWS-EC2/S3-FF9900?logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-Em_aprendizado-2496ED?logo=docker)
-
+### ⚡ PROJETOS DE ALTA PRIORIDADE  
+| PROJETO                 | STATUS      | TECH STACK              | THREAT MODEL             |
+|-------------------------|-------------|-------------------------|--------------------------|
+| **[🔒 CryptoSocket](https://github.com/Marlon009/CryptoSocket)** | `ACTIVE`    | Python (Fernet/AES)     | MITM Detection           |
+| **[📡 DataScan](https://github.com/Marlon009/DataScan)**       | `STABLE`    | BS4/Pandas/Matplotlib   | Data Exfiltration        |
+| **[🔓 ZIP Cracker](https://github.com/Marlon009/zip_cracker)** | `ACTIVE`    | Python/BruteForce       | Encryption Bypass        |
+| **[🌐 FallingPort](https://github.com/Marlon009/FallingPort)** | `ACTIVE`    | Network Sockets         | Reconnaissance           |
 ---
-
-### 📊 Atividade no GitHub
-
+### � TECH MATRIX  
+```diff
+# LANGUAGES
+! PYTHON  :: ██████████ [EXPERT] 
+! C++     :: ████████▋▋ [ADVANCED]
+! JAVA    :: █████▊▊▊▊ [INTERMEDIATE]
+# SECURITY TOOLS
++ WIRESHARK   :: LIVE CAPTURE/ANALYSIS
++ METASPLOIT  :: EXPLOIT DEVELOPMENT
++ BURP SUITE  :: WEB APP PENETRATION
+# INFRASTRUCTURE
+~ AWS (EC2/S3) :: DEPLOYMENT
+~ DOCKER        :: CONTAINERIZATION
+```
+---
+### 📈 NETWORK ACTIVITY  
 <div align="center">
   <a href="https://github.com/Marlon009?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=Marlon009&show_icons=true&theme=dark&hide_border=true&custom_title=Estatísticas" height="165">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlon009&layout=compact&theme=dark&hide_border=true" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=Marlon009&show_icons=true&theme=dark&hide_border=true&custom_title=SYSTEM_STATS&include_all_commits=true" height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlon009&layout=compact&theme=dark&hide_border=true&custom_title=CODE_FOOTPRINT" height="165">
   </a>
 </div>
-
-> *Dados referentes a projetos pessoais - Aberto para colaborações em OSS!*
-
----
-
-### 🌐 Contato e Colaborações
-
-**Interesses de Colaboração**:
-- Desenvolvimento de ferramentas de segurança
-- Bibliotecas criptográficas
-- Otimização de sistemas críticos
-
-**Redes Profissionais**:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-%230A66C2?logo=linkedin)](https://www.linkedin.com/in/marlon-santos-b35586265/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Perfil-%2388CC14?logo=tryhackme)](https://tryhackme.com/p/BabaYaga09)
-
----
-
 ```python
-def contribuir_open_source():
-    while conhecimento:
-        explorar_tecnologias()
-        if projeto_interessante:
-            colaborar()
-        documentar_processos()
+def open_source_contrib():
+    while knowledge.exists():
+        explore_emerging_tech()
+        if project.match_threat_model():
+            deploy_collaboration()
+            document_security_protocols()
+```
+---
+
+**ACCESS POINTS:**  
+[![LinkedIn](https://img.shields.io/badge/%F0%9F%95%B5%EF%B8%8F-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/marlon-santos-b35586265/)
+[![TryHackMe](https://img.shields.io/badge/%F0%9F%96%A5%EF%B8%8F-TryHackMe-88CC14?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/BabaYaga09)
+[![GitHub](https://img.shields.io/badge/%F0%9F%93%B1-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Marlon009)
+---
