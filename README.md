@@ -15,7 +15,6 @@
 </h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="400px">
 </div>
 
 ---
