@@ -1,6 +1,6 @@
 # Marlon Santos
 
-**Software Engineer** (cybersecurity focus) · **Security Researcher** · **Physics Student**
+**Software Engineer** (cybersecurity focus) · **Physics Student**
 
 ---
 
