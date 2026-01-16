@@ -1,85 +1,73 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60px">
-  <br>
-  <span style="color: #0af; text-shadow: 0 0 10px #0af, 0 0 20px #0af;">MARLON SANTOS</span>
-  <br>
-  <div style="font-size: 24px; margin-top: 10px;">
-    <span style="color: #f0f;">PENTESTER</span> | 
-    <span style="color: #0f0;">DESENVOLVEDOR</span> | 
-    <span style="color: #ff0;">FÍSICA COMPUTACIONAL</span>
-  </div>
+  <span style="color: #0af; text-shadow: 0 0 8px #0af;">Marlon Santos</span>
 </h1>
 
-<h3 align="center" style="color: #aaa; font-weight: 300; letter-spacing: 2px;">
-  SEGURANÇA DE SISTEMAS | OTIMIZAÇÃO DE BAIXO NÍVEL | CRIPTOGRAFIA APLICADA
-</h3>
+<p align="center">
+  <strong style="color: #0af;">Software Engineer</strong> · 
+  <strong style="color: #8f0;">Security Researcher</strong> · 
+  <strong style="color: #f80;">Physics Student</strong>
+</p>
 
-<div align="center">
+<p align="center">
+  <code style="background: #111; padding: 4px 8px; border-radius: 4px; border: 1px solid #0af; animation: pulse 3s infinite;">cybersecurity focus</code>
+</p>
+
+<style>
+  @keyframes pulse {
+    0%, 100% { border-color: #0af; box-shadow: 0 0 5px #0af; }
+    50% { border-color: #8f0; box-shadow: 0 0 8px #8f0; }
+  }
+  .typewriter {
+    overflow: hidden;
+    border-right: 2px solid #0af;
+    white-space: nowrap;
+    margin: 0 auto;
+    animation: typing 3.5s steps(40, end), blink-caret .75s step-end infinite;
+  }
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
+  @keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: #0af; }
+  }
+</style>
+
+<div align="center" class="typewriter" style="width: fit-content; margin: 2rem auto;">
+  <span style="color: #aaa;">secure systems | low-level optimization | applied cryptography</span>
 </div>
 
 ---
 
-## 🔍 PERFIL PROFISSIONAL
+## <span style="color: #0af;">▶</span> About me
 
-Desenvolvedor especializado em engenharia de sistemas seguros e de alto desempenho, combinando conhecimentos de física computacional com práticas modernas de segurança cibernética. Focado em soluções que integram rigor científico com aplicações práticas em ambientes de alta exigência.
+Software developer and cybersecurity enthusiast, currently studying physics, with a strong interest in systems, networks, and applied science.
 
-```bash
-> whois Marlon_Santos
-🧠 Especialização Dupla: Segurança Cibernética | Física Computacional
-⌛ Formação: 
-   - Tecnólogo em Desenvolvimento de Software (Conclusão: 2025)
-   - Licenciatura em Física (Conclusão: 2028)
-> research_interests
-CRIPTOGRAFIA APLICADA | OTIMIZAÇÃO DE SISTEMAS | COMPUTAÇÃO CIENTÍFICA | SEGURANÇA OFENSIVA
-```
-⚡ PROJETOS DESTACADOS
-🔐 CryptoSocket Messenger
+I build experimental tools, prototypes, and small-scale systems to better understand how things work under the hood — from software and security to hardware interaction and cryptography.
 
-    Sistema de comunicação E2EE em redes locais com detecção de interceptação
-    Tecnologias: Python (Fernet, AES-256), técnicas anti-MITM
-    Status: Ativo | Documentação em desenvolvimento
+This profile is a workspace for learning, experimentation, and practical problem-solving.
 
-📊 DataScan Web Analyzer
+---
 
-    Framework para extração e análise automatizada de dados web
-    Stack: BeautifulSoup, Pandas, Matplotlib, Scikit-learn
-    Status: Estável | Versão 1.2
+### <span style="color: #0af;">▷</span> Stack
 
-🛠️ Ferramentas de Segurança
+**<span style="color: #8f0;">Languages</span>**  
+`Python` `C++` `Java` `Assembly`
 
-    🔓 ZIP Cracker: Ferramenta de análise de resistência criptográfica
+**<span style="color: #f80;">Security & Tools</span>**  
+Penetration Testing · Cryptanalysis · Reverse Engineering  
+`Wireshark` `Metasploit` `Burp Suite` `Docker` `AWS`
 
-    📡 FallingPort Scanner: Scanner de rede para avaliação de vulnerabilidades
+**<span style="color: #0af;">Scientific</span>**  
+`Qiskit` `MATLAB` `COMSOL` · Numerical Methods
 
-    🌐 Network Sentinel: Monitoramento de tráfego com detecção de anomalias (em desenvolvimento)
+---
 
-🧪 COMPETÊNCIAS TÉCNICAS
+### <span style="color: #8f0;">▷</span> Contact
 
-Linguagens & Frameworks
-diff
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-88CC14?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=1a1a2e)](https://tryhackme.com/p/BabaYaga09)
 
-# PYTHON       ██████████ [EXPERT] 
-# C++          ███████▋ [AVANÇADO]
-# JAVA         █████ [INTERMEDIÁRIO]
-# ASSEMBLY     ██[BÁSICO]
-
-Segurança Cibernética
-diff
-
-+ ANÁLISE DE VULNERABILIDADES
-+ TESTES DE INVASÃO
-+ CRIPTOGRAFIA APLICADA
-+ REVERSE ENGINEERING
-
-Ferramentas & Plataformas
-diff
-
-- WIRESHARK | METASPLOIT | BURP SUITE
-- AWS (EC2/S3) | DOCKER | KUBERNETES
-- QISKIT (QUANTUM) | MATLAB | COMSOL
-
-Contato<br>
-
-[![TryHackMe](https://img.shields.io/badge/%F0%9F%96%A5%EF%B8%8F-TryHackMe-88CC14?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/BabaYaga09)
-<br>
-
+<div align="right" style="margin-top: 2rem;">
+  <span style="color: #444; font-size: 0.9em;">// systems online</span>
+</div>
