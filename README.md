@@ -17,11 +17,11 @@ This profile is a workspace for learning, experimentation, and practical problem
 ### Stack
 
 **Languages**  
-Python · C++ · Java · Assembly
+Python · C++ · C · Javascript
 
 **Security & Tools**  
 Penetration Testing · Cryptanalysis · Reverse Engineering  
-Wireshark · Metasploit · Burp Suite · Docker · AWS
+Wireshark · Metasploit · Burp Suite · Docker
 
 **Scientific**  
 Qiskit · MATLAB · COMSOL · Numerical Methods
