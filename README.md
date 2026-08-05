@@ -15,10 +15,13 @@ Signal processing + classification pipeline, field-tested against real drones.
 A companion IoT device adds azimuth estimation. Runs on-device: audio never
 leaves the sensor.
 
-**BioGraph** — Knowledge graph for pharmacological plants.
-Developed under a CNPq research scholarship. Every edge is traceable to a
-primary source, with evidence levels made explicit — it is a research
-navigation tool, not a clinical one.
+**CNPq Research Fellow (2026–)** — *Acesso a medicamentos na Amazônia:
+influência do fator amazônico sobre a assistência farmacêutica*
+("Access to medicines in the Amazon: the influence of the Amazonian factor on
+pharmaceutical assistance"), under the **Amazônia+10 Initiative**
+(CONFAP/Consecti/CNPq). Coordinator: Prof. Wilson Sabino.
+I work on the project's data infrastructure — source-traceable data models
+with explicit evidence levels, built for research navigation.
 
 **Lupion** — Inventory SaaS with Mercado Livre / Shopee integration. In beta.
 
@@ -32,12 +35,12 @@ with proper Portuguese documentation.
 
 - **DSM** — Fatec Praia Grande (final semester, 2026)
 - **Licenciatura em Física** — UNIFEI (2029)
-- **CNPq research scholarship** — knowledge graphs for pharmacological research
+- **CNPq research fellow** — Amazônia+10 Initiative (see above)
 - **Former intern** — Prefeitura de Cubatão: software development and database
   administration
 
 Languages: Portuguese (native) · English (upper-intermediate) ·
-Spanish (upper-intermediate) · French (basic-intermediate) · German (basic)
+Spanish (upper-intermediate) · French (intermediate-basic) German (basic)
 
 ---
 
