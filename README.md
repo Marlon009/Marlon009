@@ -13,7 +13,7 @@ Acoustic sensing, applied AI and embedded hardware.
 
 ## Current work
 
-### 🛰️ AADIS — Acoustic drone detection
+### AADIS — Acoustic drone detection
 Signal processing and classification pipeline that identifies drones by the sound
 of their rotors. A companion IoT device — an ESP32 with a four-microphone MEMS
 array — adds 360° azimuth estimation. Runs entirely on your own infrastructure:
@@ -21,7 +21,7 @@ audio never reaches third-party cloud.
 
 [![Overview](https://img.shields.io/badge/project_overview-0b1015?style=flat-square&logo=github&logoColor=22c55e)](https://github.com/Marlon009/aadis-overview)
 
-### 🔬 CNPq Research Fellow · 2026–
+### CNPq Research Fellow · 2026–
 ***Acesso a medicamentos na Amazônia: influência do fator amazônico sobre a
 assistência farmacêutica*** — Access to medicines in the Amazon: the influence
 of the Amazonian factor on pharmaceutical assistance.
@@ -31,10 +31,10 @@ of the Amazonian factor on pharmaceutical assistance.
 I work on the project's data infrastructure — source-traceable data models with
 explicit evidence levels, built for research navigation.
 
-### 📦 Lupion
+### Lupion
 Inventory SaaS with Mercado Livre and Shopee integration. In beta.
 
-### 🏗️ Sintropia
+### Sintropia
 The venture these live under. Hardware, embedded systems and AI-integrated
 products, plus a store shipping ESP32 kits and IR adapters with proper
 Portuguese documentation.
