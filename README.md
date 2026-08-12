@@ -1,7 +1,7 @@
 # Marlon Santos
 
 **Founder @ Sintropia Labs** · Software Developer · Physics Undergrad
-Praia Grande, SP — Brazil
+
 
 Acoustic sensing, applied AI and embedded hardware. I build systems that touch
 the physical world and have to survive contact with it.
